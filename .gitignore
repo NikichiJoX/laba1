@@ -1,0 +1,11 @@
+.venv/
+.runtime/
+.idea/
+__pycache__/
+*.pyc
+/cnnimagecodec_files_results/
+/entropy_models/
+/learned_results/
+/jpg/
+/bin/
+/test.jpeg

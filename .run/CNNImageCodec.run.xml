@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CNNImageCodec" type="PythonConfigurationType" factoryName="Python">
+    <module name="cnnimagecodec-master" />
+    <option name="SDK_HOME" value="$PROJECT_DIR$/.venv/Scripts/python.exe" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNNImageCodec.py" />
+    <method v="2" />
+  </configuration>
+</component>
